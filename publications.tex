@@ -1,0 +1,25 @@
+%% Sometimes when a section can't be nicely modelled with the \entry[]... mechanism; hack our own
+\makerubrichead{Publications}
+\noindent\textit{* indicates co-first authors.}
+
+% \textit{(*) indicate co-first authorship with equal contributions. The order of authorship follows alphabetical order.}
+
+%% Assuming you've already given \addbibresource{own-bib.bib} in the main doc. Right? Right???
+\nocite{*}
+
+%% If you just want everything in one list
+% \printbibliography[heading={none}]
+
+
+% \printbibliography[heading={subbibliography},title={Conference Proceedings},type=inproceedings]
+
+% \printbibliography[heading={none}]
+% \printbibliography[heading=subbibliography]
+
+% \printbibliography[heading={subbibliography},title={Highlight Manuscripts},keyword=highlight]
+
+\printbibliography[heading={subbibliography},title={Proceedings},keyword=published]
+
+\printbibliography[heading={subbibliography},title={Pre-Print},keyword=pre-print]
+
+% \printbibliography[heading={subbibliography},title={In Submission}, keyword=submission]
