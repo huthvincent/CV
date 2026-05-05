@@ -839,7 +839,7 @@
       \true{nocite}
       \field{pages}{2025\bibrangedash 09}
       \range{pages}{5}
-      \keyw{pre-print}
+      \keyw{pre-print,highlight}
     \endentry
     \entry{zhu2023ARO}{article}{}{}
       \name{author}{5}{ul=3}{%
@@ -2449,7 +2449,7 @@
       \true{nocite}
       \field{pages}{2025\bibrangedash 09}
       \range{pages}{5}
-      \keyw{pre-print}
+      \keyw{pre-print,highlight}
     \endentry
     \entry{zhu2025near}{article}{}{}
       \name{author}{5}{ul=2}{%
