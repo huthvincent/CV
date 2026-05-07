@@ -80,7 +80,7 @@
       \field{title}{Foundation Model–Guided Synthetic EHR Release: Performance Enhancement with Privacy Preservation}
       \field{year}{2026}
       \true{nocite}
-      \keyw{ai4s}
+      \keyw{highlight,ai4s}
     \endentry
     \entry{zhu2026large}{article}{}{}
       \name{author}{6}{}{%
@@ -142,13 +142,16 @@
       \keyw{ai4s}
     \endentry
     \entry{fan2025byzsfl}{article}{}{}
-      \name{author}{7}{}{%
-        {{un=0,uniquepart=base,hash=01944e0b85663c846e2028c420fbceb7}{%
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=86b3b9654f3b673f36271773837710f5}{%
            family={Fan*},
            familyi={F\bibinitperiod},
-           given={Yongming*and\bibnamedelima \textbf{Zhu,\bibnamedelimb Rui*}},
-           giveni={Y\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Yongming},
+           giveni={Y\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=0aa5f8fba89cb11734449e12e6f68c97}{%
+           family={\textbf{Zhu*,\bibnamedelimb Rui}},
+           familyi={Z\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=b749fe9fbd442b6e2bbb642be04f3988}{%
            family={Wang},
            familyi={W\bibinitperiod},
@@ -186,14 +189,14 @@
            giveni={L\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{70d1249a96c1cf855e3f549a0e222e13}
-      \strng{fullhash}{fffd958998204ae4f935d880c8513740}
-      \strng{fullhashraw}{fffd958998204ae4f935d880c8513740}
-      \strng{bibnamehash}{fffd958998204ae4f935d880c8513740}
-      \strng{authorbibnamehash}{fffd958998204ae4f935d880c8513740}
-      \strng{authornamehash}{70d1249a96c1cf855e3f549a0e222e13}
-      \strng{authorfullhash}{fffd958998204ae4f935d880c8513740}
-      \strng{authorfullhashraw}{fffd958998204ae4f935d880c8513740}
+      \strng{namehash}{8f3012b99f3356e5b9af34754fe8aeed}
+      \strng{fullhash}{01fb67deaa089c39ce1257497bab11fc}
+      \strng{fullhashraw}{01fb67deaa089c39ce1257497bab11fc}
+      \strng{bibnamehash}{01fb67deaa089c39ce1257497bab11fc}
+      \strng{authorbibnamehash}{01fb67deaa089c39ce1257497bab11fc}
+      \strng{authornamehash}{8f3012b99f3356e5b9af34754fe8aeed}
+      \strng{authorfullhash}{01fb67deaa089c39ce1257497bab11fc}
+      \strng{authorfullhashraw}{01fb67deaa089c39ce1257497bab11fc}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -953,20 +956,20 @@
     \endentry
     \entry{xiong2025hey}{article}{}{}
       \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=6a4ac69e8e4cb6cc7cd27f92a1fad6e8}{%
-           family={Xiong},
+        {{un=0,uniquepart=base,hash=6e5c0e725475c79e095ed557e4a8be5a}{%
+           family={Xiong*},
            familyi={X\bibinitperiod},
            given={Chen},
            giveni={C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b749fe9fbd442b6e2bbb642be04f3988}{%
-           family={Wang},
+        {{un=0,uniquepart=base,hash=91508bd4d835497e8de7785f6af18e57}{%
+           family={Wang*},
            familyi={W\bibinitperiod},
            given={Zihao},
            giveni={Z\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=3659de18900a6595a3197ee52caebaa8}{%
-           family={\textbf{Zhu,\bibnamedelimb Rui}},
+        {{un=0,uniquepart=base,hash=0aa5f8fba89cb11734449e12e6f68c97}{%
+           family={\textbf{Zhu*,\bibnamedelimb Rui}},
            familyi={Z\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=56715733ca9c5f1b1b649bfaa37f9815}{%
            family={Ho},
@@ -999,14 +1002,14 @@
            giveni={L\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{3e3bbde84b63918afdfaf6c8af5f0fd8}
-      \strng{fullhash}{9d5b44897f642d09f73c6ae17c88f65f}
-      \strng{fullhashraw}{9d5b44897f642d09f73c6ae17c88f65f}
-      \strng{bibnamehash}{9d5b44897f642d09f73c6ae17c88f65f}
-      \strng{authorbibnamehash}{9d5b44897f642d09f73c6ae17c88f65f}
-      \strng{authornamehash}{3e3bbde84b63918afdfaf6c8af5f0fd8}
-      \strng{authorfullhash}{9d5b44897f642d09f73c6ae17c88f65f}
-      \strng{authorfullhashraw}{9d5b44897f642d09f73c6ae17c88f65f}
+      \strng{namehash}{902bb00dcc1240d1f5c3c08091cec8bd}
+      \strng{fullhash}{4ad63006cd8e45ed1d1014509133e63a}
+      \strng{fullhashraw}{4ad63006cd8e45ed1d1014509133e63a}
+      \strng{bibnamehash}{4ad63006cd8e45ed1d1014509133e63a}
+      \strng{authorbibnamehash}{4ad63006cd8e45ed1d1014509133e63a}
+      \strng{authornamehash}{902bb00dcc1240d1f5c3c08091cec8bd}
+      \strng{authorfullhash}{4ad63006cd8e45ed1d1014509133e63a}
+      \strng{authorfullhashraw}{4ad63006cd8e45ed1d1014509133e63a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1084,19 +1087,22 @@
       \keyw{ai4s}
     \endentry
     \entry{chen2024janus}{article}{}{}
-      \name{author}{9}{}{%
+      \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=8d601600c561b6528538f1768bdbe5b6}{%
            family={Chen*},
            familyi={C\bibinitperiod},
            given={Xiaoyi},
            giveni={X\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=756f3d45cdd5ad3c7bd82eae10cfb461}{%
+        {{un=0,uniquepart=base,hash=bd7b9fa2adbe89a39f5fe5585f121d37}{%
            family={Tang*},
            familyi={T\bibinitperiod},
-           given={Siyuan*and\bibnamedelima \textbf{Zhu*,\bibnamedelimb Rui}},
-           giveni={S\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Siyuan},
+           giveni={S\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=0aa5f8fba89cb11734449e12e6f68c97}{%
+           family={\textbf{Zhu*,\bibnamedelimb Rui}},
+           familyi={Z\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=6e54e5966f2454df82c514eadb87099f}{%
            family={Yan},
            familyi={Y\bibinitperiod},
@@ -1141,13 +1147,13 @@
            givenun=0}}%
       }
       \strng{namehash}{1dab50b0ec62156eaca29333bb6df547}
-      \strng{fullhash}{f017f6fea1a0df007f33c79dd6ba5101}
-      \strng{fullhashraw}{f017f6fea1a0df007f33c79dd6ba5101}
-      \strng{bibnamehash}{f017f6fea1a0df007f33c79dd6ba5101}
-      \strng{authorbibnamehash}{f017f6fea1a0df007f33c79dd6ba5101}
+      \strng{fullhash}{9c253d2e0687f6b380d0b76127dc0081}
+      \strng{fullhashraw}{9c253d2e0687f6b380d0b76127dc0081}
+      \strng{bibnamehash}{9c253d2e0687f6b380d0b76127dc0081}
+      \strng{authorbibnamehash}{9c253d2e0687f6b380d0b76127dc0081}
       \strng{authornamehash}{1dab50b0ec62156eaca29333bb6df547}
-      \strng{authorfullhash}{f017f6fea1a0df007f33c79dd6ba5101}
-      \strng{authorfullhashraw}{f017f6fea1a0df007f33c79dd6ba5101}
+      \strng{authorfullhash}{9c253d2e0687f6b380d0b76127dc0081}
+      \strng{authorfullhashraw}{9c253d2e0687f6b380d0b76127dc0081}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1577,7 +1583,7 @@
       \field{title}{Selective Amnesia: On Efficient, High-Fidelity and Blind Suppression of Backdoor Effects in Trojaned Machine Learning Models}
       \field{year}{2023}
       \true{nocite}
-      \keyw{trustworthy}
+      \keyw{highlight,trustworthy}
     \endentry
     \entry{zhu2020privacy}{article}{}{}
       \name{author}{6}{ul=2}{%
@@ -1641,7 +1647,7 @@
       \true{nocite}
       \field{pages}{i128}
       \range{pages}{1}
-      \keyw{trustworthy}
+      \keyw{highlight,trustworthy}
     \endentry
     \entry{zhu2020bounding}{article}{}{}
       \name{author}{3}{ul=2}{%
@@ -1741,7 +1747,7 @@
       \field{title}{Foundation Model–Guided Synthetic EHR Release: Performance Enhancement with Privacy Preservation}
       \field{year}{2026}
       \true{nocite}
-      \keyw{ai4s}
+      \keyw{highlight,ai4s}
     \endentry
     \entry{zhu2026large}{article}{}{}
       \name{author}{6}{}{%
@@ -1803,13 +1809,16 @@
       \keyw{ai4s}
     \endentry
     \entry{fan2025byzsfl}{article}{}{}
-      \name{author}{7}{}{%
-        {{un=0,uniquepart=base,hash=01944e0b85663c846e2028c420fbceb7}{%
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=86b3b9654f3b673f36271773837710f5}{%
            family={Fan*},
            familyi={F\bibinitperiod},
-           given={Yongming*and\bibnamedelima \textbf{Zhu,\bibnamedelimb Rui*}},
-           giveni={Y\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Yongming},
+           giveni={Y\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=0aa5f8fba89cb11734449e12e6f68c97}{%
+           family={\textbf{Zhu*,\bibnamedelimb Rui}},
+           familyi={Z\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=b749fe9fbd442b6e2bbb642be04f3988}{%
            family={Wang},
            familyi={W\bibinitperiod},
@@ -1847,14 +1856,14 @@
            giveni={L\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{70d1249a96c1cf855e3f549a0e222e13}
-      \strng{fullhash}{fffd958998204ae4f935d880c8513740}
-      \strng{fullhashraw}{fffd958998204ae4f935d880c8513740}
-      \strng{bibnamehash}{fffd958998204ae4f935d880c8513740}
-      \strng{authorbibnamehash}{fffd958998204ae4f935d880c8513740}
-      \strng{authornamehash}{70d1249a96c1cf855e3f549a0e222e13}
-      \strng{authorfullhash}{fffd958998204ae4f935d880c8513740}
-      \strng{authorfullhashraw}{fffd958998204ae4f935d880c8513740}
+      \strng{namehash}{8f3012b99f3356e5b9af34754fe8aeed}
+      \strng{fullhash}{01fb67deaa089c39ce1257497bab11fc}
+      \strng{fullhashraw}{01fb67deaa089c39ce1257497bab11fc}
+      \strng{bibnamehash}{01fb67deaa089c39ce1257497bab11fc}
+      \strng{authorbibnamehash}{01fb67deaa089c39ce1257497bab11fc}
+      \strng{authornamehash}{8f3012b99f3356e5b9af34754fe8aeed}
+      \strng{authorfullhash}{01fb67deaa089c39ce1257497bab11fc}
+      \strng{authorfullhashraw}{01fb67deaa089c39ce1257497bab11fc}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2614,20 +2623,20 @@
     \endentry
     \entry{xiong2025hey}{article}{}{}
       \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=6a4ac69e8e4cb6cc7cd27f92a1fad6e8}{%
-           family={Xiong},
+        {{un=0,uniquepart=base,hash=6e5c0e725475c79e095ed557e4a8be5a}{%
+           family={Xiong*},
            familyi={X\bibinitperiod},
            given={Chen},
            giveni={C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b749fe9fbd442b6e2bbb642be04f3988}{%
-           family={Wang},
+        {{un=0,uniquepart=base,hash=91508bd4d835497e8de7785f6af18e57}{%
+           family={Wang*},
            familyi={W\bibinitperiod},
            given={Zihao},
            giveni={Z\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=3659de18900a6595a3197ee52caebaa8}{%
-           family={\textbf{Zhu,\bibnamedelimb Rui}},
+        {{un=0,uniquepart=base,hash=0aa5f8fba89cb11734449e12e6f68c97}{%
+           family={\textbf{Zhu*,\bibnamedelimb Rui}},
            familyi={Z\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=56715733ca9c5f1b1b649bfaa37f9815}{%
            family={Ho},
@@ -2660,14 +2669,14 @@
            giveni={L\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{3e3bbde84b63918afdfaf6c8af5f0fd8}
-      \strng{fullhash}{9d5b44897f642d09f73c6ae17c88f65f}
-      \strng{fullhashraw}{9d5b44897f642d09f73c6ae17c88f65f}
-      \strng{bibnamehash}{9d5b44897f642d09f73c6ae17c88f65f}
-      \strng{authorbibnamehash}{9d5b44897f642d09f73c6ae17c88f65f}
-      \strng{authornamehash}{3e3bbde84b63918afdfaf6c8af5f0fd8}
-      \strng{authorfullhash}{9d5b44897f642d09f73c6ae17c88f65f}
-      \strng{authorfullhashraw}{9d5b44897f642d09f73c6ae17c88f65f}
+      \strng{namehash}{902bb00dcc1240d1f5c3c08091cec8bd}
+      \strng{fullhash}{4ad63006cd8e45ed1d1014509133e63a}
+      \strng{fullhashraw}{4ad63006cd8e45ed1d1014509133e63a}
+      \strng{bibnamehash}{4ad63006cd8e45ed1d1014509133e63a}
+      \strng{authorbibnamehash}{4ad63006cd8e45ed1d1014509133e63a}
+      \strng{authornamehash}{902bb00dcc1240d1f5c3c08091cec8bd}
+      \strng{authorfullhash}{4ad63006cd8e45ed1d1014509133e63a}
+      \strng{authorfullhashraw}{4ad63006cd8e45ed1d1014509133e63a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2745,19 +2754,22 @@
       \keyw{ai4s}
     \endentry
     \entry{chen2024janus}{article}{}{}
-      \name{author}{9}{}{%
+      \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=8d601600c561b6528538f1768bdbe5b6}{%
            family={Chen*},
            familyi={C\bibinitperiod},
            given={Xiaoyi},
            giveni={X\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=756f3d45cdd5ad3c7bd82eae10cfb461}{%
+        {{un=0,uniquepart=base,hash=bd7b9fa2adbe89a39f5fe5585f121d37}{%
            family={Tang*},
            familyi={T\bibinitperiod},
-           given={Siyuan*and\bibnamedelima \textbf{Zhu*,\bibnamedelimb Rui}},
-           giveni={S\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Siyuan},
+           giveni={S\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=0aa5f8fba89cb11734449e12e6f68c97}{%
+           family={\textbf{Zhu*,\bibnamedelimb Rui}},
+           familyi={Z\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=6e54e5966f2454df82c514eadb87099f}{%
            family={Yan},
            familyi={Y\bibinitperiod},
@@ -2802,13 +2814,13 @@
            givenun=0}}%
       }
       \strng{namehash}{1dab50b0ec62156eaca29333bb6df547}
-      \strng{fullhash}{f017f6fea1a0df007f33c79dd6ba5101}
-      \strng{fullhashraw}{f017f6fea1a0df007f33c79dd6ba5101}
-      \strng{bibnamehash}{f017f6fea1a0df007f33c79dd6ba5101}
-      \strng{authorbibnamehash}{f017f6fea1a0df007f33c79dd6ba5101}
+      \strng{fullhash}{9c253d2e0687f6b380d0b76127dc0081}
+      \strng{fullhashraw}{9c253d2e0687f6b380d0b76127dc0081}
+      \strng{bibnamehash}{9c253d2e0687f6b380d0b76127dc0081}
+      \strng{authorbibnamehash}{9c253d2e0687f6b380d0b76127dc0081}
       \strng{authornamehash}{1dab50b0ec62156eaca29333bb6df547}
-      \strng{authorfullhash}{f017f6fea1a0df007f33c79dd6ba5101}
-      \strng{authorfullhashraw}{f017f6fea1a0df007f33c79dd6ba5101}
+      \strng{authorfullhash}{9c253d2e0687f6b380d0b76127dc0081}
+      \strng{authorfullhashraw}{9c253d2e0687f6b380d0b76127dc0081}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3238,7 +3250,7 @@
       \field{title}{Selective Amnesia: On Efficient, High-Fidelity and Blind Suppression of Backdoor Effects in Trojaned Machine Learning Models}
       \field{year}{2023}
       \true{nocite}
-      \keyw{trustworthy}
+      \keyw{highlight,trustworthy}
     \endentry
     \entry{zhu2020privacy}{article}{}{}
       \name{author}{6}{ul=2}{%
@@ -3302,7 +3314,7 @@
       \true{nocite}
       \field{pages}{i128}
       \range{pages}{1}
-      \keyw{trustworthy}
+      \keyw{highlight,trustworthy}
     \endentry
     \entry{zhu2020bounding}{article}{}{}
       \name{author}{3}{ul=2}{%
