@@ -510,7 +510,7 @@
       \field{title}{Adversarial Attack-Defense Co-Evolution for LLM Safety Alignment via Tree-Group Dual-Aware Search and Optimization}
       \field{year}{2025}
       \true{nocite}
-      \keyw{trustworthy}
+      \keyw{highlight,trustworthy}
     \endentry
     \entry{li2025knowledge}{article}{}{}
       \true{moreauthor}
@@ -753,7 +753,7 @@
       \field{title}{Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models}
       \field{year}{2025}
       \true{nocite}
-      \keyw{ai4s}
+      \keyw{highlight,ai4s}
     \endentry
     \entry{zhu2025advancing}{article}{}{}
       \true{moreauthor}
@@ -952,7 +952,7 @@
       \true{nocite}
       \field{pages}{3103\bibrangedash 3122}
       \range{pages}{20}
-      \keyw{highlight,trustworthy}
+      \keyw{trustworthy}
     \endentry
     \entry{xiong2025hey}{article}{}{}
       \name{author}{8}{}{%
@@ -1021,7 +1021,7 @@
       \field{title}{Hey, That's My Data! Label-Only Dataset Inference in Large Language Models}
       \field{year}{2025}
       \true{nocite}
-      \keyw{highlight,trustworthy}
+      \keyw{trustworthy}
     \endentry
     \entry{zhang2025KedrecLM}{article}{}{}
       \name{author}{7}{}{%
@@ -1351,7 +1351,7 @@
       \field{title}{DPAdapter: Improving Differentially Private Deep Learning through Noise Tolerance Pre-training}
       \field{year}{2024}
       \true{nocite}
-      \keyw{highlight,trustworthy}
+      \keyw{trustworthy}
     \endentry
     \entry{zhu2022bigdata}{article}{}{}
       \name{author}{4}{ul=2}{%
@@ -1648,7 +1648,7 @@
       \true{nocite}
       \field{pages}{i128}
       \range{pages}{1}
-      \keyw{highlight,trustworthy}
+      \keyw{trustworthy}
     \endentry
     \entry{zhu2020bounding}{article}{}{}
       \name{author}{3}{ul=2}{%
@@ -2178,7 +2178,7 @@
       \field{title}{Adversarial Attack-Defense Co-Evolution for LLM Safety Alignment via Tree-Group Dual-Aware Search and Optimization}
       \field{year}{2025}
       \true{nocite}
-      \keyw{trustworthy}
+      \keyw{highlight,trustworthy}
     \endentry
     \entry{li2025knowledge}{article}{}{}
       \true{moreauthor}
@@ -2510,7 +2510,7 @@
       \field{title}{Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models}
       \field{year}{2025}
       \true{nocite}
-      \keyw{ai4s}
+      \keyw{highlight,ai4s}
     \endentry
     \entry{zhu2023ARO}{article}{}{}
       \name{author}{5}{ul=3}{%
@@ -2620,7 +2620,7 @@
       \true{nocite}
       \field{pages}{3103\bibrangedash 3122}
       \range{pages}{20}
-      \keyw{highlight,trustworthy}
+      \keyw{trustworthy}
     \endentry
     \entry{xiong2025hey}{article}{}{}
       \name{author}{8}{}{%
@@ -2689,7 +2689,7 @@
       \field{title}{Hey, That's My Data! Label-Only Dataset Inference in Large Language Models}
       \field{year}{2025}
       \true{nocite}
-      \keyw{highlight,trustworthy}
+      \keyw{trustworthy}
     \endentry
     \entry{zhang2025KedrecLM}{article}{}{}
       \name{author}{7}{}{%
@@ -3019,7 +3019,7 @@
       \field{title}{DPAdapter: Improving Differentially Private Deep Learning through Noise Tolerance Pre-training}
       \field{year}{2024}
       \true{nocite}
-      \keyw{highlight,trustworthy}
+      \keyw{trustworthy}
     \endentry
     \entry{zhu2022bigdata}{article}{}{}
       \name{author}{4}{ul=2}{%
@@ -3316,7 +3316,7 @@
       \true{nocite}
       \field{pages}{i128}
       \range{pages}{1}
-      \keyw{highlight,trustworthy}
+      \keyw{trustworthy}
     \endentry
     \entry{zhu2020bounding}{article}{}{}
       \name{author}{3}{ul=2}{%
