@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.2.15)  9 MAY 2026 16:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.2.15)  11 MAY 2026 19:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1278,10 +1278,10 @@ Package logreq Info: Writing requests to 'cv-llt.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37395 strings out of 474662
- 749406 string characters out of 5751109
- 1691023 words of memory out of 5000000
- 59715 multiletter control sequences out of 15000+600000
+ 37393 strings out of 474662
+ 749384 string characters out of 5751109
+ 1689015 words of memory out of 5000000
+ 59713 multiletter control sequences out of 15000+600000
  779332 words of font info for 78 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  100i,12n,107p,1199b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1295,7 +1295,7 @@ ui/Library/texmf/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><
 /Users/rui/Library/texmf/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid
 .pfb></Users/rui/Library/texmf/fonts/type1/public/inconsolata/Inconsolata-zi4r.
 pfb>
-Output written on cv-llt.pdf (5 pages, 256331 bytes).
+Output written on cv-llt.pdf (5 pages, 255931 bytes).
 PDF statistics:
  177 PDF objects out of 1000 (max. 8388607)
  124 compressed objects within 2 object streams
