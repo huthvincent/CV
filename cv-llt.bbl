@@ -1138,7 +1138,7 @@
       \field{title}{Kedrec-LM: A Knowledge-Distilled Explainable Drug Recommendation Large Language Model}
       \field{year}{2025}
       \true{nocite}
-      \keyw{ai4s}
+      \keyw{highlight,ai4s}
     \endentry
     \entry{chen2024janus}{article}{}{}
       \name{author}{10}{}{%
@@ -2890,7 +2890,7 @@
       \field{title}{Kedrec-LM: A Knowledge-Distilled Explainable Drug Recommendation Large Language Model}
       \field{year}{2025}
       \true{nocite}
-      \keyw{ai4s}
+      \keyw{highlight,ai4s}
     \endentry
     \entry{chen2024janus}{article}{}{}
       \name{author}{10}{}{%
